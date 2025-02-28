@@ -9,7 +9,7 @@ URL:            http://www.freedesktop.org/wiki/Software/xinput_calibrator
 # git archive --format=tar.gz -o xinput-calibrator-0.8.0.tar.gz --prefix=xinput_calibrator-0.8.0/ v0.8.0
 Source0:        xinput-calibrator-0.8.0.tar.gz
 
-BuildRequires:  autoconf
+BuildRequires:  autoconf automake
 BuildRequires:  gcc-c++
 BuildRequires:  gcc
 BuildRequires:  desktop-file-utils
