@@ -6,12 +6,12 @@ Summary(fr):    Programme de calibrage d'écran tactile générique pour X.Org
 
 License:        MIT
 URL:            http://www.freedesktop.org/wiki/Software/xinput_calibrator
-# git archive --format=tar.gz -o xinput-calibrator-0.8.0.tar.gz --prefix=xinput_calibrator-0.8.0/ v0.8.0
-# tar zxf xinput-calibrator-0.8.0.tar.gz
-# cd xinput-calibrator-0.8.0
+# git archive --format=tar.gz -o xinput_calibrator-0.8.0.tar.gz --prefix=xinput_calibrator-0.8.0/ v0.8.0
+# tar zxf xinput_calibrator-0.8.0.tar.gz
+# cd xinput_calibrator-0.8.0
 # make dist
-# cp  xinput-calibrator-0.8.0.tar.gz ..
-Source0:        xinput-calibrator-0.8.0.tar.gz
+# cp  xinput_calibrator-0.8.0.tar.gz ..
+Source0:        xinput_calibrator-0.8.0.tar.gz
 
 BuildRequires:  gcc-c++
 BuildRequires:  gcc
