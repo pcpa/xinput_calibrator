@@ -69,6 +69,9 @@ desktop-file-install                       \
 
 
 %changelog
+* Fri Feb 28 2025 pcpa <paulo.cesar.pereira.de.andrade@gmail.com> 0.8.0-1
+- new package built with tito
+
 * Fri Feb 28 2025 Paulo Andrade <pandrade@redhat.com> - 0.8.0-1
 - Experimental package update
 
